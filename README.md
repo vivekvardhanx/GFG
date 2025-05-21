@@ -9,3 +9,4 @@ Hi! I'm learning DSA by solving 1 problem daily on GFG. This repo tracks my jour
 Solve at least 1 coding problem every day for 180 days.
 
 ## ✅ Progress
+The .py files contains question and answer.
